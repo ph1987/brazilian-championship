@@ -1,5 +1,7 @@
 # Brazilian Championship
 
+https://brazilian-championship.vercel.app/
+
 Application created as task of postgraduate course.
 This application consumes an API that returns brazilian football data.
 I organized all this data and returned the classification at the end of the championship for each year.
