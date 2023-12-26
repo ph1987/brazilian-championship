@@ -13,7 +13,7 @@ To implement this solution, I used the technologies below:
 - Material UI
 - Tailwind
 
-API Source: https://brasileirao-backend-phl.glitch.me/[year]
+API Source: https://brasileirao-backend-phl.glitch.me/
 
 Year can be a number between: 2003-2015
 Example: https://brasileirao-backend-phl.glitch.me/2003
